@@ -1,0 +1,6 @@
+{
+    "require": {
+        "telegram-bot/api": "^2.3",
+        "textalk/websocket": "1.0.*"
+    }
+}
